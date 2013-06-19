@@ -1,0 +1,12 @@
+Problemas:
+
+- Distribuição de Mictórios	|
+- Um mundo pequeno			||
+- Lâmpadas no corredor		||| WINNER
+- OCR Bancário				||
+
+Linguagem:
+
+- Python	||| WINNER
+- C#		||
+- Java		|
